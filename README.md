@@ -91,5 +91,18 @@ print('Hello python')
   -추가 설치 프로그램
   1. Notepad++ 에디터 - https://notepad-plus-plus.org/downloads/
   2.  픽픽 - https://picpick.net/
+     
      -**파이썬** 개발환경 설정
-        1.
+        1. https://www.python.org/ 에서 Download의 python 3.1x.x버튼을 클
+        2. Add python.exe to PATH 체크 활성화 후
+        3.Installer > Customize installation 클릭
+        4.Documentation 체크 해제, for all users 체크 활성화 다음
+        5.Advanced options 에서 Install python 3.1x for all users 체크
+        6.경로 변경후 설치<img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/2f3d3b8e-c984-4816-9364-c1f9136051d8" />
+        8.setup was successful 에서 Disable path length limit 클릭 (필수!)
+        <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/1de9f7bc-0bc9-4cbd-9ca5-406c35ed39a1" />
+
+
+
+
+  -프로그램 개발 개념
