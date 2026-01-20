@@ -105,6 +105,8 @@ print('Hello python')
 
          10.vs code extention 확장에서 python 검색 후 설치
 
+         11. vs code를 재오픈 폴더 생성
+
 
 
   -프로그램 개발 개념
