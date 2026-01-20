@@ -79,3 +79,17 @@ print('Hello python')
    -https://desktop.github.com/download/ d\에서 다운로드 클릭, 설치
    -계정 브라우저 연동
   3. 리포지토리 클론
+   - github Desktop 메뉴 Clone Repository 클릭
+   - github.com탭에서 저장소 검색, 선택
+   - Local path 지정 후 '클론' 버튼 클릭
+ 
+  -visual studio code 설치
+   1.https://code.visualstudio.com/ Download for windows 버튼 클릭
+   2.설치 `C|DEV?EDE?MICROSOFT VS CODE`에 설치
+   3.Extension > korean pack for visual studio code 설치후 재시작
+
+  -추가 설치 프로그램
+  1. Notepad++ 에디터 - https://notepad-plus-plus.org/downloads/
+  2.  픽픽 - https://picpick.net/
+     -**파이썬** 개발환경 설정
+        1.
