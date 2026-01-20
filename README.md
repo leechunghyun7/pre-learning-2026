@@ -101,7 +101,9 @@ print('Hello python')
         6.경로 변경후 설치<img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/2f3d3b8e-c984-4816-9364-c1f9136051d8" />
         8.setup was successful 에서 Disable path length limit 클릭 (필수!)
         <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/1de9f7bc-0bc9-4cbd-9ca5-406c35ed39a1" />
+         9. cmd 또는 powershell 오픈 ,python --version 확인
 
+         10.vs code extention 확장에서 python 검색 후 설치
 
 
 
