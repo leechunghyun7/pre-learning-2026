@@ -110,3 +110,59 @@ print('Hello python')
 
 
   -프로그램 개발 개념
+  
+## 2일차
+
+- VS Code tjfwjd
+1. 미니맵 설정 : 설정> 미니맵 검색,
+-Editor > minimap : Enabled 체크 해제
+2. 폰트 지정
+   -나눔고딕코딩, D2coding 등 한글지원 코딩 글자체 사용
+3. 설정에서 zoom 누르고 마우스 휠 줌을 체크
+   설정>Editor :Font Family 맨앞에, NANUMGOTHICCODING,입력
+
+-프로그램 개발 개념
+프로그램 : 데이터를 처리하는 명령을 수행하는 것
+
+
+  -단순구조 : 데이터를 직접 처리하는 프로그램
+
+![alt text](image.png)
+
+-DB사용구조
+
+![alt text](image-2.png)
+
+-DB가 같은 컴퓨터에 존재할 수도 있고, 다른 컴퓨터(서버)에 존재할 수 있음
+
+- IOT확장구조 : 데이터는 IOT에서 수집, 통신프로그램도 분리, 서버도 분리
+
+-클라우드나 가상머신을 사용할 수도 있음
+
+![alt text](image-5.png)
+
+
+-학습할 언어, 기술 
+-C, C++
+-Database(MySQL) : IOT 장비와 같이 사용하기 위해서
+-c#: winApp, webApp, IoT 모니터링 DBcjfl
+-linux:RDS, 라즈베리파이 OS
+-네트워크 통신, IoT, 데이터분석(ML,DL),알고리즘,코딩테스트
+
+-파이썬
+-기본문법
+-변수와 자료형
+-제어문(조건문,반복문)
+-파일입출력
+-객체지향
+-예외처리
+
+- 변수와 자료형
+     -[변수](./day02/day02/variable.py)
+     -[자료형](./day02/day02/data.py)
+
+_제어문
+  -[IF문](./day02/day02/statement.py)확인
+  -[FOR문](./day02/day02/statement.py)확인
+  -[WHILE문](./day02/day02/statement.py)확인
+  
